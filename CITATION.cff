@@ -1,6 +1,6 @@
 # Before tagging: add ORCIDs, set version and date-released, add the DOI.
 cff-version: 1.2.0
-title: CHoRUS EHR Dump
+title: CHoRUS EHR Extract
 message: If you use this software, please cite it as below.
 type: software
 abstract: >-
