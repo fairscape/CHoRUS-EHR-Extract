@@ -1,0 +1,28 @@
+# Before tagging: add ORCIDs, set version and date-released, add the DOI.
+cff-version: 1.2.0
+title: CHoRUS EHR Dump
+message: If you use this software, please cite it as below.
+type: software
+abstract: >-
+  A Jupyter notebook that exports the OMOP CDM tables from the CHoRUS enclave
+  Postgres database to Parquet for packaging into an RO-Crate.
+authors:
+  - family-names: Levinson
+    given-names: Maxwell Adam
+    affiliation: University of Virginia
+  - family-names: German Mesner
+    given-names: Ian
+    affiliation: University of Virginia
+  - family-names: Al Manir
+    given-names: Sadnan
+    affiliation: University of Virginia
+  - family-names: Clark
+    given-names: Timothy
+    affiliation: University of Virginia
+repository-code: https://github.com/fairscape/CHoRUS-EHR-Extract
+license: MIT
+keywords:
+  - OMOP CDM
+  - electronic health records
+  - CHoRUS
+  - RO-Crate

@@ -1,0 +1,17 @@
+.env
+.env.*
+!.env.example
+
+# Exported data
+*.parquet
+*.tsv
+omop/
+samples/
+
+.claude/
+.DS_Store
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
