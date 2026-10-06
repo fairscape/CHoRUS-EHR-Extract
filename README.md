@@ -1,4 +1,4 @@
-# CHoRUS EHR Dump
+# CHoRUS EHR Extract
 
 `ehr-dump.ipynb` exports the [OMOP CDM](https://ohdsi.github.io/CommonDataModel/)
 tables from the CHoRUS enclave Postgres database to zstd-compressed Parquet for
