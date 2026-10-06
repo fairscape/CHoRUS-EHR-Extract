@@ -19,7 +19,7 @@ authors:
   - family-names: Clark
     given-names: Timothy
     affiliation: University of Virginia
-repository-code: https://github.com/fairscape/CHoRUS-EHR-DUMP
+repository-code: https://github.com/fairscape/CHoRUS-EHR-Extract
 license: MIT
 keywords:
   - OMOP CDM
